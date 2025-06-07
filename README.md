@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>GenAI Portfolio - Kirtiraj Darwai</title>
+  <title> GenAI Portfolio - Kirtiraj Darwai </title>
 </head>
 <body>
   <h1>Hi, I'm Kirtiraj 👋</h1>
