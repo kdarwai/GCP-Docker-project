@@ -12,3 +12,13 @@
   </ul>
 </body>
 </html>
+
+
+
+genai-portfolio/
+├── index.html        <- Main homepage
+├── projects.html     <- List of GenAI projects
+├── resume.pdf        <- Your resume (optional)
+├── assets/           <- Images, icons, etc.
+└── README.md
+
